@@ -1,0 +1,3 @@
+[submodule "Datasets/Time_Series_Datasets"]
+	path = Datasets/Time_Series_Datasets
+	url = https://github.com/entailgroup/Time_Series_Datasets.git
